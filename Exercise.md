@@ -56,7 +56,7 @@
 6. Create a new file inside the guestbook/ folder:
    - File name: <your-name>.md (for example fredrik.md)
    - File contents:
-     Hello from Fredrik!
+     git
 
 7. Add, commit, and push your branch:
     ```
